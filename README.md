@@ -40,11 +40,6 @@ This README describes the implementation of several functions in Metta:
     *   Calls `addTwo` with each element of the list and the constant `$con`. 
     *   Uses `perpare-list` to process the input list before applying `addTwo`.
 
-**Key Concepts:**
-
-*   **Recursion:** Both the `multiple-of-3-or-5`, `sum-even-fib`, and `binary_map` functions utilize recursion to iterate through numbers or list elements.
-*   **Pattern Matching:** The `if` conditions and the use of `car-atom` and `cdr-atom` for list manipulation demonstrate basic pattern matching within the Metta language.
-*   **Function Composition:** The `binary_map` function demonstrates how to combine multiple functions (`perpare-list` and `addTwo`) to achieve a specific result.
 
 **Usage:**
 
@@ -55,10 +50,3 @@ This README describes the implementation of several functions in Metta:
 **Note:**
 
 *   This README only covers the implemented functions: 1, 2, and 4.
-*   The `perpare-list` function is specific to the given example and might need adjustments for different list representations.
-
-This README provides a basic overview of the implemented Metta functions. For more detailed information, refer to the code comments and the Metta documentation.
-
-**Disclaimer:**
-
-This code is provided for illustrative purposes and may not be the most efficient or elegant implementation.
