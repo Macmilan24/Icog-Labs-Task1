@@ -87,12 +87,7 @@ This README describes the implementation of several functions in Metta:
 **Video Explanation:**
 
 **Number 1 and 2**
-<video width="640" height="360" controls>
-
-  <source src="video/num 1, 2.mp4" type="video/mp4">
-</video>
-
-[Watch the video directly](video/num 1, 2.mp4)
+https://github.com/user-attachments/assets/af127f6a-f0db-4ddc-b353-bfa0b7c5c93d
 
 <br>
 
