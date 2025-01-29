@@ -71,9 +71,8 @@ This README describes the implementation of several functions in Metta:
 
 - **Recursion:** All functions utilize recursion to iterate through numbers or list elements.
 - **Pattern Matching:** The `if` conditions and the use of `car-atom` and `cdr-atom` for list manipulation demonstrate basic pattern matching within the Metta language.
-- **Function Composition:** The functions demonstrate how to combine multiple functions to achieve specific results.
-=======
->>>>>>> f2c8f87e98eb8683dca672b20d3cc0794a6551d9
+- # **Function Composition:** The functions demonstrate how to combine multiple functions to achieve specific results.
+  > > > > > > > f2c8f87e98eb8683dca672b20d3cc0794a6551d9
 
 **Usage:**
 
@@ -85,10 +84,23 @@ This README describes the implementation of several functions in Metta:
 **Note:**
 
 <<<<<<< HEAD
+
 - The `perpare-list` function is specific to the given example and might need adjustments for different list representations.
 - The `insert` function for the sort algorithm creates a list as space separated elements.
 
 **Video Explanation:**
-=======
-*   This README only covers the implemented functions: 1, 2, and 4.
+
+**Number 1 and 2**
+<video width="640" height="360" controls>
+
+  <source src="video/num 1, 2.mp4" type="video/mp4">
+</video>
+
+**Number 3 and 4**
+<video width="640" height="360" controls>
+
+  <source src="video/number 3,4.mp4" type="video/mp4">
+</video>
+
+<br>
 >>>>>>> f2c8f87e98eb8683dca672b20d3cc0794a6551d9
