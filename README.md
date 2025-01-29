@@ -66,11 +66,14 @@ This README describes the implementation of several functions in Metta:
   - Calls `addTwo` with each element of the list and the constant `$con`.
   - Uses `perpare-list` to process the input list before applying `addTwo`.
 
+<<<<<<< HEAD
 **Key Concepts:**
 
 - **Recursion:** All functions utilize recursion to iterate through numbers or list elements.
 - **Pattern Matching:** The `if` conditions and the use of `car-atom` and `cdr-atom` for list manipulation demonstrate basic pattern matching within the Metta language.
 - **Function Composition:** The functions demonstrate how to combine multiple functions to achieve specific results.
+=======
+>>>>>>> f2c8f87e98eb8683dca672b20d3cc0794a6551d9
 
 **Usage:**
 
@@ -81,7 +84,11 @@ This README describes the implementation of several functions in Metta:
 
 **Note:**
 
+<<<<<<< HEAD
 - The `perpare-list` function is specific to the given example and might need adjustments for different list representations.
 - The `insert` function for the sort algorithm creates a list as space separated elements.
 
 **Video Explanation:**
+=======
+*   This README only covers the implemented functions: 1, 2, and 4.
+>>>>>>> f2c8f87e98eb8683dca672b20d3cc0794a6551d9
