@@ -92,10 +92,6 @@ https://github.com/user-attachments/assets/af127f6a-f0db-4ddc-b353-bfa0b7c5c93d
 <br>
 
 **Number 3 and 4**
-<video width="640" height="360" controls>
-
-  <source src="video/number 3,4.mp4" type="video/mp4">
-</video>
-[Watch the video directly](video/number 3,4.mp4)
+https://github.com/user-attachments/assets/3b59ddd4-d3ca-41ac-8a9f-379a7fc4d63d
 <br>
 
