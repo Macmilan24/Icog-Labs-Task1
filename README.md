@@ -59,18 +59,10 @@ This README describes the implementation of several functions in Metta:
 
   - This helper function is designed to handle a specific list format (likely with a delimiter).
   - It recursively extracts elements from the list until the delimiter is encountered.
-  - **Note:** This function might require adjustments depending on the actual list format.
 
 - **`binary_map $list $con`:**
   - Calls `addTwo` with each element of the list and the constant `$con`.
   - Uses `perpare-list` to process the input list before applying `addTwo`.
-
-**Key Concepts:**
-
-- **Recursion:** All functions utilize recursion to iterate through numbers or list elements.
-- **Pattern Matching:** The `if` conditions and the use of `car-atom` and `cdr-atom` for list manipulation demonstrate basic pattern matching within the Metta language.
-- # **Function Composition:** The functions demonstrate how to combine multiple functions to achieve specific results.
-
 
 **Usage:**
 
