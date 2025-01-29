@@ -40,7 +40,6 @@ This README describes the implementation of several functions in Metta:
 
   - This function inserts element `$x` into a sorted `$list`.
   - It recursively inserts `$x` into the list according to their value by using `<=`.
-  - The list is structured as space-separated elements without explicit `Cons` constructor.
 
 - **`insertion-sort-prepared $list`:**
 
@@ -66,13 +65,12 @@ This README describes the implementation of several functions in Metta:
   - Calls `addTwo` with each element of the list and the constant `$con`.
   - Uses `perpare-list` to process the input list before applying `addTwo`.
 
-<<<<<<< HEAD
 **Key Concepts:**
 
 - **Recursion:** All functions utilize recursion to iterate through numbers or list elements.
 - **Pattern Matching:** The `if` conditions and the use of `car-atom` and `cdr-atom` for list manipulation demonstrate basic pattern matching within the Metta language.
 - # **Function Composition:** The functions demonstrate how to combine multiple functions to achieve specific results.
-  > > > > > > > f2c8f87e98eb8683dca672b20d3cc0794a6551d9
+
 
 **Usage:**
 
@@ -82,8 +80,6 @@ This README describes the implementation of several functions in Metta:
 - To apply the `addTwo` function with a constant of 9 to the list (1 2 3 4): `!(binary_map (1 2 3 4 ()) 9)`
 
 **Note:**
-
-<<<<<<< HEAD
 
 - The `perpare-list` function is specific to the given example and might need adjustments for different list representations.
 - The `insert` function for the sort algorithm creates a list as space separated elements.
@@ -96,11 +92,15 @@ This README describes the implementation of several functions in Metta:
   <source src="video/num 1, 2.mp4" type="video/mp4">
 </video>
 
+[Watch the video directly](video/num 1, 2.mp4)
+
+<br>
+
 **Number 3 and 4**
 <video width="640" height="360" controls>
 
   <source src="video/number 3,4.mp4" type="video/mp4">
 </video>
-
+[Watch the video directly](video/number 3,4.mp4)
 <br>
->>>>>>> f2c8f87e98eb8683dca672b20d3cc0794a6551d9
+
